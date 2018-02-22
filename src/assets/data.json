@@ -1,0 +1,232 @@
+[
+ {
+  "itemid": 1,
+  "itemname":"Samsung",
+  "itemprice":1,
+  "itemimage":"https://image.freepik.com/free-vector/mobile-phone-mock-up-design_1283-4.jpg"
+ },
+  {
+  "itemid":2,
+  "itemname":"Nokia",
+  "itemprice":2,
+  "itemimage":"http://www.freepngimg.com/download/samsung_mobile_phone/1-2-samsung-mobile-phone-free-png-image.png"
+ },
+  {
+  "itemid":3,
+  "itemname":"Windows",
+  "itemprice":3,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+  {
+  "itemid":4,
+  "itemname":"Moto G2",
+  "itemprice":4,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+ {
+  "itemid":5,
+  "itemname":"Lava",
+  "itemprice":5,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":6,
+  "itemname":"Lenova",
+  "itemprice":6,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":7,
+  "itemname":"Coolpad",
+  "itemprice":7,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+  {
+  "itemid":8,
+  "itemname":"Oppo",
+  "itemprice":8,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+ {
+  "itemid":9,
+  "itemname":"Samsung",
+  "itemprice":9,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":10,
+  "itemname":"Nokia",
+  "itemprice":10,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":11,
+  "itemname":"Samsung",
+  "itemprice":11,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+  {
+  "itemid":12,
+  "itemname":"Moto G2",
+  "itemprice":11,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+ {
+  "itemid":13,
+  "itemname":"Samsung Note2",
+  "itemprice":12,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":14,
+  "itemname":"Nokia N199",
+  "itemprice":13,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":15,
+  "itemname":"Samsung J7 Max",
+  "itemprice":14,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+  {
+  "itemid":16,
+  "itemname":"Moto G2 V3",
+  "itemprice":15,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+ {
+  "itemid":17,
+  "itemname":"Samsung Galaxy",
+  "itemprice":16,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":18,
+  "itemname":"Nokia N29",
+  "itemprice":17,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":19,
+  "itemname":"Samsung Galaxy",
+  "itemprice":18,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+  {
+  "itemid":20,
+  "itemname":"Moto G7",
+  "itemprice":19,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+   {
+  "itemid":21,
+  "itemname":"Nokia N199",
+  "itemprice":20,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":22,
+  "itemname":"Samsung J7 Max",
+  "itemprice":21,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+  {
+  "itemid":23,
+  "itemname":"Moto G2 V3",
+  "itemprice":22,
+  "itemimage":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_1280.png"
+ },
+ {
+
+  "itemid":24,
+  "itemname":"Samsung Galaxy",
+  "itemprice":23,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":25,
+  "itemname":"Nokia N29",
+  "itemprice":24,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+ {
+  "itemid":26,
+  "itemname":"Nokia N39",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":27,
+  "itemname":"Lava",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":28,
+  "itemname":"Lenova V34",
+  "itemprice":2242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":29,
+  "itemname":"Samsung Galaxy Note",
+  "itemprice":2434,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+ {
+  "itemid":30,
+  "itemname":"Micromax 1",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":31,
+  "itemname":"Micromax 3",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":32,
+  "itemname":"Lenova 45",
+  "itemprice":2242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":33,
+  "itemname":"Micromax 2",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":34,
+  "itemname":"Micromax 67",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":35,
+  "itemname":"Lenova 400",
+  "itemprice":2242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":36,
+  "itemname":"Micromax M56",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":37,
+  "itemname":"Micromax MI123",
+  "itemprice":242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ },
+  {
+  "itemid":38,
+  "itemname":"Lenova 45s",
+  "itemprice":2242,
+  "itemimage":"https://cdn.pixabay.com/photo/2018/01/23/01/24/cellphone-3100428_1280.png"
+ }
+  
+]

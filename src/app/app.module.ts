@@ -1,8 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
-
+import { HttpClientModule } from '@angular/common/http';
+import { InfiniteScrollModule } from 'ngx-infinite-scroll';
+import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
+import { GetdataService } from './getdata.service';
 
 
 @NgModule({
@@ -10,9 +12,11 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,HttpClientModule,
+    FormsModule,
+    InfiniteScrollModule 
   ],
-  providers: [],
+  providers: [GetdataService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
